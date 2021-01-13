@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/weapon-common/weaponcommon.iml" filepath="$PROJECT_DIR$/weapon-common/weaponcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weapon-goods/weapongoods.iml" filepath="$PROJECT_DIR$/weapon-goods/weapongoods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weapon-viper/weaponviper.iml" filepath="$PROJECT_DIR$/weapon-viper/weaponviper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weapon-web/weaponweb.iml" filepath="$PROJECT_DIR$/weapon-web/weaponweb.iml" />
+    </modules>
+  </component>
+</project>
