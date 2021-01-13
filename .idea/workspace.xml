@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c973ef2-1b70-48b2-a627-cf6a6b0e2303" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeaponShop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weapon-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weapon-common/weaponcommon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weapon-goods/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weapon-goods/weapongoods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weapon-viper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weapon-viper/weaponviper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weapon-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weapon-web/weaponweb.iml" afterDir="false" />
-    </list>
+    <list default="true" id="3c973ef2-1b70-48b2-a627-cf6a6b0e2303" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,10 +69,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="943" />
-    <option name="y" value="398" />
-    <option name="width" value="963" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="601" />
+    <option name="y" value="260" />
+    <option name="width" value="1217" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -142,22 +126,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610535444338</updated>
-      <workItem from="1610535445542" duration="2219000" />
+      <workItem from="1610535445542" duration="2473000" />
     </task>
+    <task id="LOCAL-00001" summary="军火铺开张">
+      <created>1610538960902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610538960902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2219000" />
+    <option name="totallyTimeSpent" value="2473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="853" y="427" width="963" height="1056" extended-state="0" />
+    <frame x="601" y="260" width="1217" height="1056" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.51937985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40535867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -184,6 +177,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="军火铺开张" />
+    <option name="LAST_COMMIT_MESSAGE" value="军火铺开张" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
